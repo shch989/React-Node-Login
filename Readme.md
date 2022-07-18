@@ -20,3 +20,7 @@ $ npm install body-parser --save
 ```
 $ npm install nodemon --save-dev
 ```
+### Bcrypt 설치(v5.0.1)
+```
+$ npm install bcrypt --save
+```
