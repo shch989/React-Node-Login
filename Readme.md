@@ -24,3 +24,11 @@ $ npm install nodemon --save-dev
 ```
 $ npm install bcrypt --save
 ```
+### Jsonwebtoken 설치(v8.5.1)
+```
+$ npm install jsonwebtoken --save
+```
+### cookie-parser 설치(v1.4.6)
+```
+$ npm install cookie-parser --save
+```
