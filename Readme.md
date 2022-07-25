@@ -32,3 +32,9 @@ $ npm install jsonwebtoken --save
 ```
 $ npm install cookie-parser --save
 ```
+
+## React
+### React 실행(v18.2.0)
+```
+$ npx create-react-app .
+```
