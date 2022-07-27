@@ -1,6 +1,5 @@
 const express = require('express')
 const app = express()
-const port = 5000
 const bodyParser = require('body-parser'); // 클라이언트에서 가져온 body 정보를 가져옴
 const cookieParser = require('cookie-parser'); // cookieParser
 const config = require('./config/key')
@@ -88,6 +87,8 @@ app.get('/api/users/logout', auth, (req, res) => {
     return res.status(200).send({ success: true })
   })
 })
+
+const port = 5000
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)

@@ -46,3 +46,7 @@ $ npm install react-router-dom --save
 ```
 $ npm install axios --save
 ```
+### Proxy 설치(v2.0.6)
+```
+$ npm install http-proxy-middleware --save
+```
