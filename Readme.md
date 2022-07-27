@@ -42,3 +42,7 @@ $ npx create-react-app .
 ```
 $ npm install react-router-dom --save
 ```
+### axios 설치(v0.27.2)
+```
+$ npm install axios --save
+```
