@@ -50,3 +50,7 @@ $ npm install axios --save
 ```
 $ npm install http-proxy-middleware --save
 ```
+### Concurrently 설치(v7.3.0)
+```
+$ npm install concurrently --save
+```
