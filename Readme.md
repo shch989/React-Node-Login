@@ -38,3 +38,7 @@ $ npm install cookie-parser --save
 ```
 $ npx create-react-app .
 ```
+### Dependency 설치(v5.3.3)
+```
+$ npm install react-router-dom --save
+```
