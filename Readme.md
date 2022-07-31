@@ -54,3 +54,11 @@ $ npm install http-proxy-middleware --save
 ```
 $ npm install concurrently --save
 ```
+### Antd 설치(v4.22.1)
+```
+$ npm install antd --save
+```
+### Redux 설치(v4.2.0)
+```
+$ npm install redux react-redux redux-promise redux-thunk --save
+```
